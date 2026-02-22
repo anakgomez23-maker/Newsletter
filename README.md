@@ -19,8 +19,8 @@ Este proyecto consiste en el diseño y desarrollo de una página web tipo newsle
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: https://github.com/anakgomez23-maker/Newsletter
+Deploy: https://anakgomez23-maker.github.io/Newsletter/ 
 ---
 
 ## 📝 Reflexión
